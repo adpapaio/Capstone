@@ -1,0 +1,6 @@
+Instructions for Capstone: 
+ For this assignment, you will implement a Character Creation Program that allows a user 
+to select various attributes and features for their character.  Once the character is created, the 
+program should allow the user to save the file as a .umdchar file.  The user should also be able to 
+load a saved game file, and the user interface should react accordingly depending on the data 
+loaded from file.
